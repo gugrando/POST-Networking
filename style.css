@@ -1,0 +1,18 @@
+body{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(15, 28, 27);
+}
+.post-section{
+  width: 65vw;
+}
+.post-content{
+  color: #ad9c87;
+  font-size: 1.5rem;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.post-headers{
+  color: #d67070;
+  font-weight: bold;
+  font-size: 1.8rem;
+}
